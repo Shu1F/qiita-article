@@ -1,12 +1,12 @@
 ---
 title: Notion から Obsidian に乗り換えて筋トレを記録した話
 tags:
-  - Obsidian
   - GitHub
-  - Codex
   - AI
+  - codex
+  - Obsidian
 private: false
-updated_at: '2026-07-01T00:13:14+09:00'
+updated_at: '2026-07-01T00:35:09+09:00'
 id: 05f40b9a65d8eaab73ec
 organization_url_name: null
 slide: false
