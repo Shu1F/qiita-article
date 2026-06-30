@@ -113,6 +113,8 @@ Scripts/     # QuickAddやDataviewの自動化
 
 流れはこんな感じです。
 
+![メニュー作成](public/images/task_make_demo.mov)
+
 ```text
 1. Obsidianを開く
 2. コマンドパレットを開く
@@ -124,29 +126,7 @@ Scripts/     # QuickAddやDataviewの自動化
 
 実際のログはこんな感じです。
 
-```md
-# 2026-06-28
-
-### Day 5: 二頭 + 三頭
-
-#### ストレッチ
-- [[obsidian/Workouts/Exercises/インクラインダンベルカール.md|インクラインダンベルカール]]
-  - 1: 8kg × 12
-  - 2: 8kg × 12
-  - 3: 8kg × 12
-
-#### 高負荷
-- [[obsidian/Workouts/Exercises/EZバーカール.md|EZバーカール]]
-  - 1: 10kg × 10
-  - 2: 10kg × 10
-  - 3: 10kg × 10
-
-#### プレスダウン
-- [[obsidian/Workouts/Exercises/ケーブルプレスダウン.md|ケーブルプレスダウン]]
-  - 1: 18.75kg × 12
-  - 2: 13.75kg × 17
-  - 3: 16.25kg × 12
-```
+![ログ](public/images/ログ.jpg)
 
 ## 使っているプラグイン
 
