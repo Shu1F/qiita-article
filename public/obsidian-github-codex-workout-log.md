@@ -6,7 +6,7 @@ tags:
   - codex
   - Obsidian
 private: false
-updated_at: '2026-07-01T00:13:14+09:00'
+updated_at: '2026-07-01T00:21:43+09:00'
 id: 05f40b9a65d8eaab73ec
 organization_url_name: null
 slide: false
